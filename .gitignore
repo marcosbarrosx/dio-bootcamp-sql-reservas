@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django, Flask, SQLite
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# SQLite DB folder and files
+sqlite_database/
+sqlite_database/*.db
+*.db
+
+# dotenv
+.env
+.env.*
+
+# type checks / caches
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Other
+coverage.xml
